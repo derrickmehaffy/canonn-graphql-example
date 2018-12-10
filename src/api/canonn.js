@@ -7,7 +7,7 @@ Canonn API example for graphQL
 import bodiesQL from './bodies.schema.js';
 import { sources } from './sources.schema.js';
 
-export const API_CANONN_GRAPHQL = 'https://api.canonn.fyi/graphql';
+export const API_CANONN_GRAPHQL = 'https://api2.canonn.fyi/graphql';
 export const API_CANONN_STEP = 1000;
 
 var pullData = {};
